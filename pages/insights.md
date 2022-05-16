@@ -7,8 +7,8 @@ permalink: /insights
 
 {% for post in site.posts %}
 
-<article class="post-preview">
-  {% if post.section == "insights" %}
+{% if post.section == "insights" %}
+  <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}
@@ -25,14 +25,11 @@ permalink: /insights
     {% endif %}
     on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
   </p>
-  {% else %}
+  </article>
+{% else %}
 
-  {% endif %}
-
-</article>
-
+{% endif %}
 <hr>
-
 {% endfor %}
 
 <!-- Pager -->
