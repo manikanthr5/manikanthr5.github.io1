@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Posts
+title: Insights
 background: '/assets/img/bg-post.jpg'
-permalink: /posts
+permalink: /insights
 ---
 
 {% for post in site.posts %}
 
 <article class="post-preview">
+  {% if post.section == "insights" %}
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}
@@ -24,6 +25,10 @@ permalink: /posts
     {% endif %}
     on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
   </p>
+  {% else %}
+
+  {% endif %}
+
 </article>
 
 <hr>

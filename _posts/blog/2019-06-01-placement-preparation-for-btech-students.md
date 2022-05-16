@@ -2,7 +2,8 @@
 layout: post
 title:  "Placement Preparation for B.Tech Students"
 date:   2019-06-01
-categories: placement
+categories: blog placement
+section: blog
 tags: ['featured', 'machine learning', 'placement preparation']
 background: /assets/img/article_images/2019-06-01-placement-preparation-for-btech-students/cover-photo-journey.jpeg
 use_math : false
