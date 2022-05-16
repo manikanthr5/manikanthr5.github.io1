@@ -12,7 +12,7 @@ comments: false
 
 I have been asked from some of my friends on how to prepare for their upcoming campus selections. It is said that, if a question is asked more than twice, write a blog about it. Here I am, writing with my campus selection experience at IIT Kharagpur 2018, on a better than a random way to prepare for placements.
 
-![Campus Selections 2019-20](/assets/img/article_images/2019-06-01-placement-preparation-for-btech-students/campus-selections-2019-20.jpeg)
+<img src="/assets/img/article_images/2019-06-01-placement-preparation-for-btech-students/campus-selections-2019-20.jpeg" alt="Campus Selections 2019-20" width="100%">
 
 **I am writing in particular on how to prepare for Data Science and Software Development Positions.**
 
