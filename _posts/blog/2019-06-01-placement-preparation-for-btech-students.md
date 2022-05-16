@@ -7,6 +7,7 @@ section: blog
 tags: ['featured', 'machine learning', 'placement preparation']
 background: /assets/img/article_images/2019-06-01-placement-preparation-for-btech-students/cover-photo-journey.jpeg
 use_math : false
+comments: false
 ---
 
 I have been asked from some of my friends on how to prepare for their upcoming campus selections. It is said that, if a question is asked more than twice, write a blog about it. Here I am, writing with my campus selection experience at IIT Kharagpur 2018, on a better than a random way to prepare for placements.
