@@ -4,37 +4,7 @@ background: '/assets/img/bg-index.jpg'
 ---
 <!-- Home Post List -->
 
-<h2>Insights</h2>
-
-{% for post in site.categories.insights limit : 5 %}
-
-<article class="post-preview">
-  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-    <h3 class="post-title">{{ post.title }}</h3>
-    {% if post.subtitle %}
-    <h4 class="post-subtitle">{{ post.subtitle }}</h4>
-    {% else %}
-    <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h4>
-    {% endif %}
-  </a>
-  <p class="post-meta">Posted by
-    {% if post.author %}
-    {{ post.author }}
-    {% else %}
-    {{ site.author }}
-    {% endif %}
-    on
-    {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
-  </p>
-</article>
-
-<hr>
-
-{% endfor %}
-
-<h2>Blog Posts</h2>
-
-{% for post in site.categories.blog limit : 5 %}
+{% for post in site.posts limit : 5 %}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
