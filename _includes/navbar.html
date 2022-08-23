@@ -17,11 +17,17 @@
         <li class="nav-item">
           <a class="nav-link" href="{{ "/insights" | relative_url }}">Insights</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://manikanthr5.github.io/blog"">Blog</a>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="{{ "/blog" | relative_url }}" role="button" data-toggle="dropdown" aria-expanded="false">
+            Blog
+          </a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Trips</a>
+            <a class="dropdown-item" href="#">Photo Gallery</a>
+          </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://manikanthr5.github.io/blog/list-100">List 100</a>
+          <a class="nav-link" href="{{ "/list-100" | relative_url }}">List 100</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
