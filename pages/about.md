@@ -11,9 +11,16 @@ Hello there,
 Thanks for taking time to know more about me. My name is Manikanth Reddy (you can call me Manikanth or Mani). 
 
 ---
-I currently work as an Analyst (Machine Learning) at American Express. I am a part of Machine Learning and Data Science team based out of Bangalore, India. As part of the team, I work on solving a broad range of problems related to Credit and Fraud Risk. 
 
-My latest project is on **Bank Statement Summarization** using **Natural Language Processing**. 
+Currently I work at <a href="https://www.bloomreach.com/" target="_blank">Bloomreach</a> as a Machine Learning Engineer. I am working on developing and deploying data products. 
+
+Before I joined Bloomreach, I worked as an Data Scientist (Machine Learning) at American Express. I was a part of Machine Learning and Data Science team based out of Bangalore, India. As part of the team, I wokred on solving a broad range of problems related to Credit and Fraud Risk. 
+
+In my free time, I work on [Kaggle]({{ site.kaggleurl }}) or read manga (can talk days about One Piece and Haikyuu, if you are into it). I also play Table Tennis, Cricket, Badminton and Volley Ball. I also developed building Video Games (Mainly in Unity) as a hobby.
+
+---
+
+My last project at American Express was on **Bank Statement Summarization** using **Natural Language Processing**. 
 - I helped reduce the response time of the ML Project by 3 fold using Code Optimization and Caching techniques which led to satisfying SLA time requirements for the first version of the model.
 - I am currently responsible on building models for International markets and Unified model for all languages.
 - **I have been working on this project for last 3 months and due to project restrictions I can't discolse any more details.**
@@ -54,6 +61,3 @@ I completed by 12th Standard from [Jawahar Navodaya Vidyalaya, Gachibowli](https
 - I completed by 10th Standard from [Jawahar Navodaya Vidyalaya, Anantapur](https://navodaya.gov.in/nvs/nvs-school/Ananthapuram/en/contact-us/JNV/).
 
 ---
-
-
-In my free time, I work on [Kaggle]({{ site.kaggleurl }}) or read manga (can talk days about One Piece and Haikyuu, if you are into it). I also play Table Tennis, Cricket, Badminton and Volley Ball. I also developed building Video Games (Mainly in Unity) as a hobby.
