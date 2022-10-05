@@ -2,7 +2,7 @@
 layout: page
 title: Insights
 background: '/assets/img/bg-post.jpg'
-permalink: /insights
+permalink: /re-insights
 ---
 
 {% for post in site.posts %}
