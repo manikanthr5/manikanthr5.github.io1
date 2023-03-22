@@ -28,4 +28,4 @@ I have used the following resources for devoloping this repository:
 - <a href="https://pages.github.com" target="_blank">GitHub Pages</a>
 
 ## Disclaimer
-The views expressed on this repository and on <a href="https://manikanthr5.github.io" target="_blank">my website</a> are mine and do not necessarily reflect the views of my current or any of my previous employers. I neither claim nor imply that I am speaking on the company's behalf. I make sure to not disclose any information that is confidential or proprietary to my current employer or previous employers. 
+The views expressed on this repository and on <a href="https://manikanthr5.github.io" target="_blank">my website</a> are mine and do not necessarily reflect the views of my current or any of my previous employers. I neither claim nor imply that I am speaking on the company's behalf. I make sure to not disclose any information that is confidential or proprietary to my current employer or previous employers.  
