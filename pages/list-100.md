@@ -13,7 +13,7 @@ Progress as of Apr 25, 2023: 2/42.
 1. ✗ Visit Manali
 1. ✗ Visit Mountain View Google Office
 1. ✗ Start a nonprofit organization - Got a chance but wasn't able to collect to commit.
-1. ✗ Visit 100 countries [1/100]
+1. ✗ <a href="/visit-100-countries" target="_blank" title="visit 100 countries">Visit 100 countries</a> [1/100]
 1. ✗ Fly an aeroplane
 1. ✗ See Kashmir
 1. ✗ Build a house for my parents - [Planned]
@@ -48,8 +48,6 @@ Progress as of Apr 25, 2023: 2/42.
 1. ✗ Create a band and play at a concert or a pub
 1. ✗ Ask a stranger out for a date
 1. ✗ Start an apparel brand
-1. ✗ 
-1. ✗ 
 1. ✗ 
 1. ✗ 
 1. ✗ 

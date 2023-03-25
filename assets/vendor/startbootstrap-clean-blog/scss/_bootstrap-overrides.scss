@@ -25,3 +25,15 @@
   font-size: 16px;
   padding: 25px 35px;
 }
+
+.page-content p a, .post-container p a, .post-container li a, .page-content li a {
+  color: #1520A6;
+  text-decoration: none;
+}
+.page-content p a:after, .post-container p a:after, .post-container li a:after, .page-content li a:after {
+  // content: '\2197';
+  content: ' 🔗';
+  position: relative;
+  right: 0px;
+  font-size: 16px;
+}
