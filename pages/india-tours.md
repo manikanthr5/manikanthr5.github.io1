@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "India Tourism"
+title: "India Tours"
 description: "List of tourist places in India that I have visited."
 background: '/assets/img/map of india - my tours.png'
-permalink: /india-tourism
+permalink: /blog/india-tours
 ---
 
 In this page, I will track the list of tourist places that I got to visit/want to visit in India. 
+
+NOTE: I have tried highlight the places I have visited with yellow mark on the map.
 
 <img src="/assets/img/map of india - my tours.png" alt="list of tourist places I have visited in India">
 

@@ -5,7 +5,13 @@ background: '/assets/img/bg-post.jpg'
 permalink: /blog
 ---
 
-{% for post in site.posts %}
+Welcome to my blog. 
+
+NOTE: This page is being updated. Meanwhile go through some of my posts using below links or the [posts page](/blog/posts).
+
+<hr>
+
+{% for post in site.posts limit : 5 %}
 
 <article class="post-preview">
   {% if post.section == "blog" %}
@@ -36,19 +42,6 @@ permalink: /blog
 {% endfor %}
 
 <!-- Pager -->
-{% if paginator.total_pages > 1 %}
-
 <div class="clearfix">
-
-  {% if paginator.previous_page %}
-  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Newer<span class="d-none d-md-inline"> Posts</span></a>
-  {% endif %}
-
-  {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
-  {% endif %}
-
+  <a class="btn btn-primary float-right" href="{{"/blog/posts" | relative_url }}">View All Posts &rarr;</a>
 </div>
-
-{% endif %}

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hampi Trip"
-date:   2022-08-14
+title:  "Meghalaya Trip"
+date:   2019-02-01
 categories: blog trips
 section: blog
 tags: ['photos', 'trips']
@@ -9,3 +9,7 @@ background: /assets/img/article_images/2019-06-01-placement-preparation-for-btec
 use_math : false
 comments: false
 ---
+
+# Meghalaya Trip
+
+NOTE: Will be updated.

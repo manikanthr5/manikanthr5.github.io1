@@ -25,7 +25,9 @@ layout: default
             <span>tags: 
               {% for tag in page.tags %}
                 {% capture tag_name %}{{ tag }}{% endcapture %}
-                <a href="/tag/{{ tag_name }}" class="white"><code class="highligher-white"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+                <!-- TODO: Add tags page. -->
+                <!-- <a href="/tag/{{ tag_name }}" class="white"><code class="highligher-white"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a> -->
+                <a href="#" class="white"><code class="highligher-white"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
               {% endfor %}
             </span>
           </div>

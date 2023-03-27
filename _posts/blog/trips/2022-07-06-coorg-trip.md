@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coorg Trip"
-date:   2022-08-14
+date:   2022-07-06
 categories: blog trips
 section: blog
 tags: ['photos', 'trips']

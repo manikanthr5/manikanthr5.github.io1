@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hampi Trip"
-date:   2022-08-14
+title:  "Nepal Trip"
+date:   2023-01-02
 categories: blog trips
 section: blog
 tags: ['photos', 'trips']
@@ -9,3 +9,7 @@ background: /assets/img/article_images/2019-06-01-placement-preparation-for-btec
 use_math : false
 comments: false
 ---
+
+# Nepal Trip
+
+NOTE: Will be updated.

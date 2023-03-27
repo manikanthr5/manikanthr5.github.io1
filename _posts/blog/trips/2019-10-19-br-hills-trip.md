@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hampi Trip"
-date:   2022-08-14
+title:  "BR Hills Trip"
+date:   2019-10-19
 categories: blog trips
 section: blog
 tags: ['photos', 'trips']
@@ -9,3 +9,7 @@ background: /assets/img/article_images/2019-06-01-placement-preparation-for-btec
 use_math : false
 comments: false
 ---
+
+# BR Hills Trip
+
+NOTE: Will be updated.
